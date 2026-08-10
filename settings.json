@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CROSSPLAYSMP2.aternos.me",
-    "port": 35441,
+    "ip": "crossplay-wXbq.aternos.me",
+    "port": 45845,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "password"
     },
     "anti-afk": {
       "enabled": true,
